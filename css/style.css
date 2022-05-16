@@ -1,0 +1,121 @@
+body{
+    margin: 1%;
+    background-color: white;
+    font-family: arial,'Times New Roman', Times, serif,'Times New Roman', Times, serif;
+    text-align: justify;
+    
+}
+main{
+    padding-bottom: 1%;
+    background-color: rgb(240, 240, 240);
+    
+    
+}
+header{
+    background-color: black;
+    margin: 0%;
+    border-radius: 4px;
+}
+nav{
+   
+    margin: 0%;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    
+}
+div{
+    background-color: darkgray;
+    margin: 1%;
+    padding: 1%;
+    position: static;
+    width: 20%;
+    box-shadow: 2px 0px 4px 0px black;
+    text-align: center;
+    border-radius: 2%;
+}
+a{
+    
+    color: #ec2025;
+    font-weight: bolder;
+}
+a:link {
+        text-decoration: none;
+        
+        
+}
+
+a:hover {
+        text-decoration: none;
+        /*
+        color: #0d8ac7;
+        border: #ec2025;
+        */
+        color: #0d8ac7;
+        font: 300px;
+        
+}
+
+article{
+    background-color: rgb(206, 205, 205);
+    margin: 1%;
+    border: 1px solid black;
+    border-radius: 4px;
+    
+    
+}
+picture{
+    margin: 20%;
+    
+}
+img{
+    width: 60%;
+    
+}
+h1{
+    
+    margin: 1%;
+    padding: 15%;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif,Arial, Helvetica, sans-serif,'Times New Roman', Times, serif,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(236, 32, 37);
+    text-align: center;
+    font-size: 180%;
+    
+}
+h2{
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    
+
+}
+
+p{
+    background-color: white;
+    margin: 1%;
+    padding: 20px;
+    border-radius: 1%;
+    
+    
+}
+#footer-p{
+    margin: 0%;
+    font-family: 'Arial Narrow Bold', sans-serif,Arial, Helvetica, sans-serif,'Times New Roman', Times, serif,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+footer{
+    margin: 1%;
+    padding: 1%;
+    border: 1px solid black;
+    border-radius: 3px;
+    font-family: 'Arial Narrow Bold', sans-serif,Arial, Helvetica, sans-serif,'Times New Roman', Times, serif,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+
+}
+.contato_logo{
+    width: 7%;
+    margin-right: 5px;
+    margin-left: 3px;
+}
